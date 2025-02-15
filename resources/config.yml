@@ -1,0 +1,4 @@
+# types : message | kick
+type: kick
+# message for server stop. {line} for next line, {reason} for reason
+format: "Server Stopped{line}Reason: {reason}"

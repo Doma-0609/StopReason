@@ -1,0 +1,12 @@
+name: StopReason
+author: Doma
+main: Doma\StopReason\StopReason
+api: 5.0.0
+version: 1.0.0
+commands:
+  stopreason:
+    usage: /stopreason <reason>
+    permission: pocketmine.command.stop
+    description: Stop Server With Reason
+    aliases:
+      - sr
